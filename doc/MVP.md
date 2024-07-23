@@ -8,4 +8,4 @@ Demo includes:
 
 ## Demo
 
-![Image](./images/AsciiArtifyMVP.mkv)
+![Image](./images/AsciiArtifyMVP.mp4)
