@@ -8,4 +8,5 @@ Demo includes:
 
 ## Demo
 
-![Image](./images/AsciiArtifyMVP.mp4)
+
+[![Watch the video](https://i.ytimg.com/vi/905V44VChOU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC0gXihyMA8=&rs=AOn4CLAk27kHKErpnGQQvu34_7Og__eY3g)](https://www.youtube.com/watch?v=905V44VChOU)
