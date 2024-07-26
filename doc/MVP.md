@@ -1,6 +1,7 @@
 ## Introduction 
 
-This document presents MVP of AsciiArtify.  
+This document presents MVP of AsciiArtify.   
+
 Demo includes: 
 - process of app configuration inside ArgoCD
 - app usage - process of an image conversion
